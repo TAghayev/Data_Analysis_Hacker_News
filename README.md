@@ -1,6 +1,6 @@
-Hacker News Data Exploration/Analytics
+# Hacker News Data Exploration/Analytics
 
-This project examines two types of posts from Hacker News to find posts that receive the most votes based off comments. Two types of posts are Ask HN and Show HN. Essentially, Ask HN is a type of post that asks a question from the Hacker News community. Show HN, is a post that shares something interesting to the Hacker News community, projects, videos, images, etc. 
+This project examines two types of posts from Hacker News to find posts that receive the most votes based off comments. Two types of posts are `Ask HN` and `Show HN`. Essentially, `Ask HN` is a type of post that asks a question from the Hacker News community. `Show HN`, is a post that shares something interesting to the Hacker News community, projects, videos, images, etc. 
 
 In this project, we will target two questions:
 1) Which of those two types of questions receive more comments on average?
